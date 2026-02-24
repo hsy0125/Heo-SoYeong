@@ -11,7 +11,7 @@ AI 및 강화학습 알고리즘까지 이해하고 구현하는 개발자를 �
 - 복수전공: 자율주행시스템전공
 - 관심 분야: Backend Architecture, AI System, Reinforcement Learning
 - 자격증:
-  - SQLD (SQL 개발자) | 2024.04 취득
+  - SQLD (SQL 개발자) | 2025.04 취득
   - ADsP (데이터분석 준전문가) | 2025.08 취득
 
 단순 기능 구현이 아닌,  
